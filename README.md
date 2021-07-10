@@ -1,22 +1,22 @@
 # CS_Foothill_Python
 ### Projects done in introductory to advanced Python courses
 
-## Project 4, Free Frozen Yogurt
+## Assignment 4, Free Frozen Yogurt
 ### This program is aimed to run a purchase-and-award system on yogurts buying for customers.
 
-## Project 5, Functions and Lists
+## Assignment 5, Functions and Lists
 ### This program is aimed to use a few functions to extract som statistial information from a list of integers or manipulate the list in some fashion.
 
-## Project 6, A Triple String Class
+## Assignment 6, A Triple String Class
 ### This program is using OOP to implement a class called TripleString, which consists of a few instance attribute and a few instance methods to support those attributes. 
 
-## Project 7, Slot Machine Simulation
+## Assignment 7, Slot Machine Simulation
 ### This program will simulate a slot machine pull which generates from three strings. The user's winning is determined by his original bet multiplied by the pay multiplier based on the pull result.
 
-## Project 8, String Reversal
+## Assignment 8, String Reversal
 ### This program will use three techniqus, iteration, stack, and recursion, to solve a problem, reversing a string.
 
-## Project 10, Contact List
+## Assignment 10, Contact List
 ### In this program, we'll finish the features:
 ### 1. Search for a specific contact either by first name or last name
 ### 2. Print all contacts, sorted by either the first name or last name
